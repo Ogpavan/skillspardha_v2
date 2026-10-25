@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "title": "Contact SkillSpardha",
+    "description": "Contact SkillSpardha by phone, email or message, and find our Noida office on the map."
+  },
+  "details": {
+    "eyebrow": "CONTACT DETAILS",
+    "title": "Get in touch, your way.",
+    "description": "Call or email our team, or visit us in Noida. We’ll help point you in the right direction.",
+    "items": [
+      {
+        "kind": "phone",
+        "label": "Call us",
+        "value": "+91 70171 19254",
+        "href": "tel:+917017119254",
+        "action": "Call now"
+      },
+      {
+        "kind": "email",
+        "label": "Email us",
+        "value": "info@skillspardha.com",
+        "href": "mailto:info@skillspardha.com",
+        "action": "Email our team"
+      },
+      {
+        "kind": "address",
+        "label": "Visit us",
+        "value": "B-46, B Block, Sector 63, Noida, Uttar Pradesh 201309",
+        "href": "https://www.google.com/maps/dir/?api=1&destination=28.617163485031362%2C77.3771650098826",
+        "action": "Get directions"
+      }
+    ],
+    "mapTitle": "SkillSpardha office location",
+    "mapEmbedUrl": "https://www.google.com/maps?q=28.617163485031362%2C77.3771650098826&z=16&output=embed"
+  },
+  "form": {
+    "title": "How can we help?",
+    "description": "Share a few details and your email app will open with a message addressed to our team.",
+    "nameLabel": "Your name",
+    "namePlaceholder": "Enter your name",
+    "emailLabel": "Email address",
+    "emailPlaceholder": "you@example.com",
+    "topicLabel": "What is this about?",
+    "topicPlaceholder": "Choose a topic",
+    "topics": ["Workshop enquiry", "Technology Accelerator", "Partnership or mentoring", "Other"],
+    "messageLabel": "Your message",
+    "messagePlaceholder": "Tell us a little about what you need…",
+    "submitLabel": "Prepare email",
+    "submitHelp": "Your email app will open with the message ready for you to review and send.",
+    "openedMessage": "Your email app should open with your message. Review it there and press send.",
+    "subjectPrefix": "SkillSpardha enquiry",
+    "mailNameLabel": "Name",
+    "mailEmailLabel": "Email",
+    "mailTopicLabel": "Topic",
+    "mailMessageLabel": "Message"
+  },
+  "resources": {
+    "eyebrow": "QUICK LINKS",
+    "title": "Looking for something specific?",
+    "description": "These pages may have the answer you need right away.",
+    "items": [
+      {
+        "title": "Workshop information",
+        "description": "Explore topics, session formats and workshop pages to find a practical place to begin.",
+        "cta": "Browse workshops",
+        "href": "/workshops"
+      },
+      {
+        "title": "7-Day Technology Accelerator",
+        "description": "Review the seven-day learning roadmap and the current information for the program.",
+        "cta": "View program details",
+        "href": "/workshops/7-day-technology-accelerator"
+      },
+      {
+        "title": "Common questions",
+        "description": "Find answers about live sessions, workshop access, recordings and certificates.",
+        "cta": "Read FAQs",
+        "href": "/#faq"
+      }
+    ]
+  }
+}

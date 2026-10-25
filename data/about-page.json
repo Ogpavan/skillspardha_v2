@@ -1,0 +1,101 @@
+{
+  "hero": {
+    "eyebrow": "ABOUT SKILLSPARDHA",
+    "title": "Learning should lead to doing.",
+    "paragraphs": [
+      "We believe the best way to learn technology is to experience it firsthand.",
+      "SkillSpardha is a practical, project-driven learning platform designed to help students and aspiring professionals develop meaningful technical skills through live workshops, guided projects, and real-world challenges.",
+      "We bring learning and application together, helping learners move beyond theoretical knowledge to create things they can confidently demonstrate."
+    ],
+    "primaryCta": "Explore Our Workshops",
+    "secondaryCta": "Discover Our Approach",
+    "imageAlt": "Learners collaborating around a laptop during a practical workshop"
+  },
+  "story": {
+    "eyebrow": "WHY WE EXIST",
+    "title": "The gap between learning and building.",
+    "paragraphs": [
+      "Technology education has never been more accessible. Tutorials, courses, and resources are available everywhere.",
+      "Yet learning a concept and knowing how to apply it are two very different things.",
+      "Students often understand the fundamentals but struggle when it's time to build an application, solve a practical problem, or turn their knowledge into a meaningful project."
+    ],
+    "callout": "SkillSpardha was created around a simple idea: learning becomes valuable when you put it into practice.",
+    "closing": "Our approach brings concepts, practical exercises, guided development, and project-based challenges into one structured learning experience. Because the goal isn't simply to finish another course. It's to gain the confidence to build something independently.",
+    "imageAlt": "A technology workspace with code, AI, cloud and analytics interfaces"
+  },
+  "missionVision": {
+    "eyebrow": "WHAT DRIVES US",
+    "title": "Building confidence through practical education.",
+    "missionTitle": "Our Mission",
+    "mission": "To make practical technology education more accessible, engaging, and outcome-focused by connecting structured learning with real implementation. We aim to help learners develop technical foundations, apply their skills to projects, and move forward with greater confidence.",
+    "visionTitle": "Our Vision",
+    "vision": "A learning ecosystem where students are recognized not only for what they know, but also for what they can create. We envision a future where practical experience, curiosity, and the ability to solve problems become central to every learner's growth."
+  },
+  "philosophy": {
+    "eyebrow": "THE SKILLSPARDHA APPROACH",
+    "title": "Learn it. Build it. Grow with it.",
+    "intro": "We believe that effective learning happens through a continuous cycle of understanding, experimentation, creation, and improvement. That's why our learning experiences follow five connected stages.",
+    "steps": [
+      { "title": "Learn", "text": "Understand essential concepts, technologies, and their real-world applications through structured sessions and guided explanations." },
+      { "title": "Practice", "text": "Strengthen understanding through hands-on exercises, technical demonstrations, and practical problem-solving." },
+      { "title": "Build", "text": "Transform newly acquired knowledge into working mini-projects and applications." },
+      { "title": "Integrate", "text": "Discover how different technologies connect by combining individual skills into more complete solutions." },
+      { "title": "Compete", "text": "Put your knowledge to the test through project challenges, presentations, and constructive evaluation." }
+    ],
+    "beliefLabel": "Our belief",
+    "belief": "Knowledge gives you a foundation. Practice builds your skills. Projects demonstrate what you can do."
+  },
+  "experiences": {
+    "eyebrow": "LEARNING EXPERIENCES",
+    "title": "Different ways to learn. One focus on practical skills.",
+    "intro": "SkillSpardha brings together structured learning experiences designed to make technology education more relevant and applicable.",
+    "items": [
+      { "title": "Live Technology Workshops", "text": "Interactive sessions focused on understanding technical concepts, exploring tools, and practising essential skills through guided activities." },
+      { "title": "Technology Accelerators", "text": "Focused, multi-day learning experiences designed to introduce connected technologies and help learners create tangible project outcomes." },
+      { "title": "Project-Based Challenges", "text": "Opportunities for learners to apply their skills, experiment with ideas, solve problems, and present their work." },
+      { "title": "Portfolio-Oriented Learning", "text": "Guidance on organizing projects, documenting development work, and presenting practical experience through tools such as GitHub." }
+    ]
+  },
+  "audiences": {
+    "eyebrow": "OUR LEARNING COMMUNITY",
+    "title": "For the curious. The ambitious. The builders.",
+    "intro": "Whether you're taking your first steps into technology or looking to turn existing knowledge into practical experience, SkillSpardha aims to support your learning journey.",
+    "items": [
+      { "title": "College Students", "text": "Explore technologies beyond the classroom and gain practical exposure through structured projects and guided activities." },
+      { "title": "Beginners & Technology Enthusiasts", "text": "Build foundational understanding, experiment with modern tools, and discover the fields that interest you." },
+      { "title": "Aspiring Developers & Creators", "text": "Improve practical skills, explore development workflows, and gain experience building applications and digital solutions." },
+      { "title": "Early-Career Professionals", "text": "Expand your technical knowledge, explore new technologies, and strengthen your confidence through applied learning." }
+    ]
+  },
+  "difference": {
+    "eyebrow": "OUR COMMITMENT",
+    "title": "More than completing a course.",
+    "intro": "We believe learning experiences should provide a clear direction and an opportunity to apply what has been taught.",
+    "items": [
+      { "title": "Practical from the start", "text": "We connect explanations with exercises and implementation, helping learners understand how concepts work in practice." },
+      { "title": "Projects with purpose", "text": "We emphasize tangible outputs that learners can review, improve, document, and share." },
+      { "title": "Connected learning", "text": "We encourage learners to look beyond isolated technologies and understand how different technical skills work together." },
+      { "title": "Guided progression", "text": "We use structured learning paths and focused activities to make complex subjects easier to approach." },
+      { "title": "A culture of participation", "text": "Through interactive sessions, challenges, and project presentations, we encourage active involvement rather than passive observation." }
+    ]
+  },
+  "community": {
+    "eyebrow": "PEOPLE & COMMUNITY",
+    "title": "Learning grows stronger through collaboration.",
+    "paragraphs": [
+      "Technology is constantly evolving, and meaningful progress often comes from sharing knowledge, asking questions, and building alongside others.",
+      "SkillSpardha seeks to create learning environments where participants can engage with instructors, exchange ideas with peers, and gain constructive feedback on their work.",
+      "We value practical experience, clear communication, curiosity, and the willingness to keep improving."
+    ],
+    "cta": "Meet Our Mentors",
+    "imageAlt": "Learners and a mentor collaborating around a laptop during a workshop"
+  },
+  "closing": {
+    "eyebrow": "YOUR NEXT STEP STARTS HERE",
+    "title": "Don't just learn what's possible. Build it.",
+    "text": "Every new skill creates an opportunity to explore, experiment, and grow. Take the next step with practical workshops, meaningful projects, and a learning experience built around doing.",
+    "tagline": "Learn skills. Build projects. Create opportunities.",
+    "primaryCta": "Explore Workshops",
+    "secondaryCta": "View Upcoming Programs"
+  }
+}

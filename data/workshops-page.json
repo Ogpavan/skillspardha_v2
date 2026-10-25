@@ -1,0 +1,32 @@
+{
+  "sampleSection": {
+    "eyebrow": "COMING SOON",
+    "title": "More workshops to explore",
+    "description": "Build practical skills in web development, AI and cybersecurity. Session dates and registration details will be announced soon.",
+    "sampleLabel": "Coming soon",
+    "detailsLabel": "Dates and registration details coming soon",
+    "items": [
+      {
+        "category": "Web Development",
+        "title": "Build a Website from Scratch",
+        "description": "Learn the essentials of HTML, CSS and JavaScript while building a responsive website.",
+        "image": "/images/workshop-samples/web-development.png",
+        "imageAlt": "Learners collaborating on a website project"
+      },
+      {
+        "category": "Artificial Intelligence",
+        "title": "Create Your First AI App",
+        "description": "Explore AI fundamentals, prompt design and the steps behind a simple chatbot project.",
+        "image": "/images/workshop-samples/artificial-intelligence.png",
+        "imageAlt": "A learner testing an AI chatbot with a mentor"
+      },
+      {
+        "category": "Cybersecurity",
+        "title": "Cybersecurity Essentials",
+        "description": "Learn core security concepts through guided, beginner-friendly exercises.",
+        "image": "/images/workshop-samples/cybersecurity.png",
+        "imageAlt": "Learners studying a cybersecurity dashboard together"
+      }
+    ]
+  }
+}

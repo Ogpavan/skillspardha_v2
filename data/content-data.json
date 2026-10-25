@@ -1,0 +1,57 @@
+{
+  "workshops": [
+    { "id": "ai-beginners", "slug": "generative-ai-for-beginners", "title": "Generative AI for Beginners", "category": "Artificial Intelligence", "categorySlug": "artificial-intelligence", "image": "/images/skillspardha-workshop-generative-ai.webp", "date": "12 October 2026", "dateShort": "12 OCT", "time": "06:00 PM", "duration": "2 hours", "mode": "Live online", "mentor": "Aarav Menon", "price": "₹499", "featured": true },
+    { "id": "web-development", "slug": "modern-web-development", "title": "Modern Web Development", "category": "Web Development", "categorySlug": "web-development", "image": "/images/skillspardha-collaboration.webp", "date": "18 October 2026", "dateShort": "18 OCT", "time": "07:00 PM", "duration": "2.5 hours", "mode": "Live online", "mentor": "Rohan Shah", "price": "₹699" },
+    { "id": "uiux-fundamentals", "slug": "ui-ux-design-fundamentals", "title": "UI/UX Design Fundamentals", "category": "UI/UX Design", "categorySlug": "ui-ux-design", "image": "/images/skillspardha-hero.webp", "date": "25 October 2026", "dateShort": "25 OCT", "time": "05:30 PM", "duration": "2 hours", "mode": "Live online", "mentor": "Mira Joshi", "price": "₹599" },
+    { "id": "digital-marketing", "slug": "digital-marketing-essentials", "title": "Digital Marketing Essentials", "category": "Digital Marketing", "categorySlug": "digital-marketing", "image": "/images/skillspardha-feature.webp", "date": "01 November 2026", "dateShort": "01 NOV", "time": "11:00 AM", "duration": "2 hours", "mode": "Live online", "mentor": "Ananya Rao", "price": "₹449" },
+    { "id": "career-readiness", "slug": "career-readiness-workshop", "title": "Career Readiness Workshop", "category": "Career Development", "categorySlug": "career-development", "image": "/images/skillspardha-collaboration.webp", "date": "08 November 2026", "dateShort": "08 NOV", "time": "04:00 PM", "duration": "90 minutes", "mode": "Live online", "mentor": "Devika Iyer", "price": "Free" },
+    { "id": "communication", "slug": "communication-skills-masterclass", "title": "Communication Skills Masterclass", "category": "Communication Skills", "categorySlug": "communication-skills", "image": "/images/skillspardha-hero.webp", "date": "15 November 2026", "dateShort": "15 NOV", "time": "06:30 PM", "duration": "90 minutes", "mode": "Live online", "mentor": "Neel Batra", "price": "₹299" }
+  ],
+  "categories": [
+    { "name": "Artificial Intelligence", "slug": "artificial-intelligence", "detail": "Build useful AI workflows" },
+    { "name": "Web Development", "slug": "web-development", "detail": "Ship modern web projects" },
+    { "name": "UI/UX Design", "slug": "ui-ux-design", "detail": "Design for real people" },
+    { "name": "Digital Marketing", "slug": "digital-marketing", "detail": "Learn the growth basics" },
+    { "name": "Business & Entrepreneurship", "slug": "business-entrepreneurship", "detail": "Test ideas with confidence" },
+    { "name": "Career Development", "slug": "career-development", "detail": "Prepare for your next move" },
+    { "name": "Communication Skills", "slug": "communication-skills", "detail": "Speak with clarity" },
+    { "name": "Technology", "slug": "technology", "detail": "Keep learning what matters" }
+  ],
+  "mentors": [
+    { "name": "Mira Joshi", "role": "Product Designer", "specialization": "UI systems & research", "slug": "mira-joshi", "image": "/images/mentor-sample-1.webp" },
+    { "name": "Rohan Shah", "role": "Full-stack Developer", "specialization": "Web apps & APIs", "slug": "rohan-shah", "image": "/images/mentor-sample-2.webp" },
+    { "name": "Ananya Rao", "role": "Growth Strategist", "specialization": "Digital marketing", "slug": "ananya-rao", "image": "/images/mentor-sample-3.webp" },
+    { "name": "Devika Iyer", "role": "Career Coach", "specialization": "Career readiness", "slug": "devika-iyer", "image": "/images/mentor-sample-4.webp" }
+  ],
+  "resources": [
+    {
+      "category": "Learning guide", "title": "How to Choose the Right Workshop", "date": "28 Sep 2026", "excerpt": "A simple way to compare workshop formats, outcomes and the kind of practice you need next.", "slug": "how-to-choose-the-right-workshop", "image": "/images/skillspardha-collaboration.webp",
+      "sections": [
+        { "title": "Start with something you want to do", "text": "Choose an outcome before choosing a topic. Building a small website, testing a prototype or writing a campaign brief gives you a clearer target than simply learning more about a subject." },
+        { "title": "Check the level and the format", "text": "Read the prerequisites and look for time to practice. A beginner session should explain its tools and starting point. A more advanced session should be clear about the knowledge you need to bring." },
+        { "title": "Make room for follow-through", "text": "Set aside time after the workshop to repeat the exercise without the walkthrough. Save your questions and notes, and decide on one small change you can make to the project yourself." }
+      ]
+    },
+    {
+      "category": "Skill development", "title": "Skills Worth Learning in 2026", "date": "20 Sep 2026", "excerpt": "The practical skills that help students and early-career professionals stay useful as work changes.", "slug": "skills-worth-learning-in-2026", "image": "/images/skillspardha-feature.webp",
+      "sections": [
+        { "title": "Choose skills that connect to your work", "text": "A useful learning plan starts with the problems you encounter. If you work with information, practice organizing and checking it. If you build products, practice making small prototypes and explaining your decisions." },
+        { "title": "Practice judgment alongside tools", "text": "For AI, learn to frame a task and verify an answer. For web development, practice accessibility and debugging alongside coding. For design and marketing, get comfortable testing assumptions with the people you are trying to reach." },
+        { "title": "Show the work", "text": "Keep a short record of what you tried, what changed and what you would do next. A modest finished project with a clear explanation is useful evidence of progress." }
+      ]
+    },
+    {
+      "category": "Better practice", "title": "How Practical Learning Improves Skill Development", "date": "12 Sep 2026", "excerpt": "Why trying, sharing and getting feedback often beats another hour of passive content.", "slug": "how-practical-learning-improves-skill-development", "image": "/images/skillspardha-hero.webp",
+      "sections": [
+        { "title": "Turn an explanation into an exercise", "text": "After watching a demonstration, try a small version yourself. The gaps you notice while doing the task give you specific questions to ask and a useful starting point for more practice." },
+        { "title": "Get feedback on something concrete", "text": "Share a draft, prototype or working example. Ask a focused question: is the flow clear, does the result solve the problem, or where does the explanation become difficult to follow?" },
+        { "title": "Repeat with one change", "text": "Adapt the exercise to a different situation. Change the input, audience or constraint, then explain why your approach still works or why it needs to change. Keep both versions so you can see your progress." }
+      ]
+    }
+  ],
+  "testimonials": [
+    { "name": "Ishita Kulkarni", "workshop": "Generative AI for Beginners", "quote": "I left with a working prompt workflow and a clear idea of where AI fits into my daily work. It was practical from the first exercise.", "initials": "IK", "tone": "bg-[#e7e4fb] text-[#2d265b]" },
+    { "name": "Nikhil Varma", "workshop": "Modern Web Development", "quote": "The small group format made it easy to ask questions. I finally understood how the pieces of a real web project connect.", "initials": "NV", "tone": "bg-[#eaf1dc] text-[#324022]" },
+    { "name": "Sana Ahmed", "workshop": "UI/UX Design Fundamentals", "quote": "The workshop helped me turn a rough idea into a portfolio-ready flow. The feedback was direct, kind and useful.", "initials": "SA", "tone": "bg-[#f5e3cf] text-[#6d3d1f]" }
+  ]
+}

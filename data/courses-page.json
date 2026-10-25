@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "title": "Online Courses | SkillSpardha",
+    "description": "Explore SkillSpardha learning and placement support courses in programming, development, AI, data, design and cybersecurity."
+  },
+  "hero": {
+    "eyebrow": "SKILLSPARDHA COURSES",
+    "title": "Choose the course that moves you forward.",
+    "description": "Explore learning and placement support courses across programming, app development, AI, data, design and cybersecurity.",
+    "primaryCta": "Explore courses",
+    "secondaryCta": "Contact for guidance",
+    "image": "/images/courses/course-5.webp",
+    "imageAlt": "A laptop displaying code and analytics interfaces"
+  },
+  "catalog": {
+    "eyebrow": "ONLINE COURSES",
+    "title": "Explore our online courses",
+    "description": "Search by course name or topic, or choose a category to narrow the list.",
+    "searchLabel": "Search courses",
+    "searchPlaceholder": "Search courses by name, topic, or keyword…",
+    "filterLabel": "Filter courses by category",
+    "allCoursesLabel": "All courses",
+    "resultSingular": "course",
+    "resultPlural": "courses",
+    "durationLabel": "Duration",
+    "contactCta": "Contact Us",
+    "emptyTitle": "No courses match your search.",
+    "emptyDescription": "Try another topic or clear the selected category.",
+    "clearFiltersCta": "Show all courses"
+  },
+  "guidance": {
+    "eyebrow": "NEED HELP CHOOSING?",
+    "title": "Let’s find the right next step.",
+    "description": "Tell us what you’re interested in and our team can help point you toward a suitable course.",
+    "cta": "Contact SkillSpardha"
+  },
+  "courses": [
+    {
+      "id": "4",
+      "category": "Learning Courses",
+      "title": "Complete C Programming Bootcamp",
+      "description": "Master C programming fundamentals including pointers, memory management, and data structures from scratch.",
+      "duration": "12 WEEKS",
+      "level": "BEGINNER LEVEL",
+      "image": "/images/courses/course-4.webp"
+    },
+    {
+      "id": "5",
+      "category": "Learning Courses",
+      "title": "Complete Python Bootcamp: Go from zero to hero",
+      "description": "Master Python programming from basics to advanced topics with hands-on projects and real-world applications.",
+      "duration": "4 Month",
+      "level": "BEGINNER LEVEL",
+      "image": "/images/courses/course-5.webp"
+    },
+    {
+      "id": "18",
+      "category": "Learning Courses",
+      "title": "DSA with Python: Coding & Algorithm Mastery",
+      "description": "Learn data structures and algorithms in Python with hands-on exercises and coding challenges for real-world problem solving.",
+      "duration": "12 WEEKS",
+      "level": "BEGINNER LEVEL",
+      "image": "/images/courses/course-18.webp"
+    },
+    {
+      "id": "8",
+      "category": "Placement Support Courses",
+      "title": "Complete Android App Development with Kotlin",
+      "description": "Build professional Android applications using Kotlin and modern Android development practices.",
+      "duration": "6 Months",
+      "level": "BEGINNER LEVEL",
+      "image": "/images/courses/course-8.webp"
+    },
+    {
+      "id": "23",
+      "category": "Placement Support Courses",
+      "title": "Machine Learning Placement Program",
+      "description": "Become a job-ready Machine Learning Engineer with our industry-focused program designed to take you from beginner to professional with placement support.",
+      "duration": "6 Months",
+      "level": "Beginner",
+      "image": "/images/courses/course-23.webp"
+    },
+    {
+      "id": "24",
+      "category": "Placement Support Courses",
+      "title": "Artificial Intelligence Placement Support Program",
+      "description": "Become a Job-Ready AI Engineer with Placement Support",
+      "duration": "6 Months",
+      "level": "Beginner",
+      "image": "/images/courses/course-24.webp"
+    },
+    {
+      "id": "25",
+      "category": "Placement Support Courses",
+      "title": "Cybersecurity & Ethical Hacking Placement Program",
+      "description": "Become a Job-Ready Cybersecurity Expert with Ethical Hacking Skills & Placement Support",
+      "duration": "6 Months",
+      "level": "Beginner",
+      "image": "/images/courses/course-25.webp"
+    },
+    {
+      "id": "26",
+      "category": "Placement Support Courses",
+      "title": "Data Analytics Placement Program",
+      "description": "Data Analytics: Basic to Advanced for Placement Ready Programm",
+      "duration": "6 Months",
+      "level": "Beginner",
+      "image": "/images/courses/course-26.webp"
+    },
+    {
+      "id": "27",
+      "category": "Placement Support Courses",
+      "title": "Cloud Computing Placement Program",
+      "description": "Complete Cloud Computing with Placement Support Program",
+      "duration": "6 Months",
+      "level": "Beginner",
+      "image": "/images/courses/course-27.webp"
+    },
+    {
+      "id": "29",
+      "category": "Placement Support Courses",
+      "title": "Graphic Designing Placement Course",
+      "description": "Basic to Advanced Graphic Designing Course with Placement Support",
+      "duration": "6 Months",
+      "level": "Beginner",
+      "image": "/images/courses/course-29.webp"
+    },
+    {
+      "id": "30",
+      "category": "Placement Support Courses",
+      "title": "Full Stack Web Development",
+      "description": "Full Stack Web Development Placement Support Courses",
+      "duration": "6 Month",
+      "level": "Beginner",
+      "image": "/images/courses/course-30.webp"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "site": {
+    "name": "SkillSpardha",
+    "brandStart": "Skill",
+    "brandEnd": "Spardha",
+    "title": "SkillSpardha | Live Online Workshops & Practical Learning",
+    "description": "Join practical live online workshops at SkillSpardha. Learn from experienced mentors, build real-world skills, earn certificates and discover workshops in technology, AI, design, marketing and career development.",
+    "url": "https://skillspardha.com/",
+    "organizationDescription": "Practical live online workshops for real-world skills.",
+    "websiteDescription": "Live online workshops and practical learning led by experienced mentors.",
+    "socialDescription": "Learn through practical workshops led by experienced mentors.",
+    "socialImageAlt": "SkillSpardha practical learning workshops"
+  },
+  "header": {
+    "navigation": [
+      { "label": "Home", "href": "/" },
+      { "label": "Workshops", "href": "/workshops" },
+      { "label": "Courses", "href": "/courses" },
+      { "label": "About", "href": "/about" },
+      { "label": "Contact", "href": "/contact" }
+    ],
+    "primaryNavLabel": "Primary navigation",
+    "mobileNavLabel": "Mobile navigation links",
+    "homeAriaLabel": "SkillSpardha home",
+    "login": "Login",
+    "loginHref": "https://app.skillspardha.com/auth/signup",
+    "exploreWorkshops": "Explore workshops",
+    "mobileOpen": "Open navigation",
+    "closeNavigation": "Close navigation",
+    "mobileDescription": "Find your next practical skill."
+  },
+  "footer": {
+    "tagline": "Practical workshops designed to turn learning into real-world skills.",
+    "groups": [
+      { "title": "Workshops", "links": [["Upcoming workshop", "/workshops"], ["Upcoming workshops", "/#workshops"], ["Workshop calendar", "/#calendar"]] },
+      { "title": "Explore", "links": [["About SkillSpardha", "/about"], ["Meet our mentors", "/mentors"], ["Certificates", "/#certificates"], ["Learning resources", "/#resources"], ["Blog", "/blog"]] },
+      { "title": "Support", "links": [["Contact", "/contact"], ["FAQs", "/#faq"], ["Privacy policy", "/policies/privacy"], ["Terms & conditions", "/policies/terms"], ["Refund policy", "/policies/refunds"]] }
+    ],
+    "copyright": "© 2026 SkillSpardha. All rights reserved.",
+    "closing": "Learn through practical workshops."
+  },
+  "hero": {
+    "eyebrow": "Practical learning",
+    "eyebrowTail": "real skills",
+    "sloganStart": ["Learn it.", "Build it."],
+    "sloganEndings": ["Use it", "Share it", "Grow with it"],
+    "description": "Live workshops where you make, test and build—not just take notes. Learn alongside mentors who do the work.",
+    "explore": "Explore workshops",
+    "schedule": "See the schedule",
+    "proof": ["Live sessions", "Guided practice", "Mentor feedback"],
+    "imageAlt": "A mentor and young adult learners collaborating on a practical laptop project",
+    "captionTitle": ["Less watching.", "More making."],
+    "captionDescription": "Learning happens in the doing."
+  },
+  "ticker": {
+    "ariaLabel": "Workshop announcements",
+    "announcements": [
+      { "title": "Generative AI Workshop", "meta": "Preview the session", "href": "/workshops/generative-ai-for-beginners" },
+      { "title": "Modern Web Development", "meta": "Build a web project", "href": "/workshops/modern-web-development" },
+      { "title": "UI/UX Design Workshop", "meta": "Learn by designing", "href": "/workshops/ui-ux-design-fundamentals" },
+      { "title": "Career Readiness Workshop", "meta": "Prepare your next step", "href": "/workshops/career-readiness-workshop" }
+    ]
+  },
+  "upcoming": {
+    "title": "Upcoming workshop",
+    "viewAll": "View all workshops"
+  },
+  "workshopCard": {
+    "imageAlt": "Illustrative hands-on workshop scene",
+    "timeZone": "IST",
+    "view": "View {title}",
+    "startsAt": "Starts at",
+    "yourMentor": "Your mentor",
+    "preview": "Preview workshop",
+    "sampleFee": "Sample fee",
+    "details": "View workshop details"
+  },
+  "categories": {
+    "eyebrow": "Choose your direction",
+    "title": "A skill for every next step.",
+    "description": "Explore workshops by category. Start with a topic you care about, then put it into practice."
+  },
+  "about": {
+    "imageAlt": "Learners discussing a project during an interactive workshop",
+    "imageCaption": "Learning in public, building together.",
+    "eyebrow": "About SkillSpardha",
+    "title": "Learning that goes beyond theory.",
+    "description": "SkillSpardha helps learners move beyond passive learning by joining workshops built around practical exercises, mentor interaction and real-world skills.",
+    "principles": ["Practical learning", "Experienced mentors", "Industry-relevant skills"],
+    "link": "Discover SkillSpardha"
+  },
+  "benefits": {
+    "eyebrow": "Why SkillSpardha",
+    "title": "Built for practical learning.",
+    "description": "Bring your curiosity. Leave with a skill you’ve actually tried.",
+    "formatLead": "Ask. Try. Get feedback.",
+    "formatTail": "That’s the format.",
+    "items": [
+      { "number": "01", "title": "Live interactive workshops", "text": "Ask questions, make decisions and learn alongside other curious people." },
+      { "number": "02", "title": "Hands-on practice", "text": "Leave with a draft, workflow or prototype you can keep working on." },
+      { "number": "03", "title": "Experienced mentors", "text": "See how practitioners approach the work, including the parts a textbook leaves out." },
+      { "number": "04", "title": "Useful learning resources", "text": "Keep practicing with templates, notes and follow-up material." }
+    ]
+  },
+  "featured": {
+    "imageAlt": "Mentor guiding learners through a generative AI workshop",
+    "eyebrow": "Featured workshop",
+    "title": "Build with Generative AI.",
+    "description": "A hands-on introduction to useful AI workflows, clear prompting and small projects you can take back to work or study.",
+    "date": "12 October 2026",
+    "time": "06:00 PM · 2 hours",
+    "mentor": "Aarav Menon",
+    "format": "Live online",
+    "reserve": "Reserve your seat",
+    "details": "Workshop details"
+  },
+  "howItWorks": {
+    "eyebrow": "A simple start",
+    "title": "Start learning in three simple steps.",
+    "steps": [
+      { "number": "01", "title": "Find your workshop", "text": "Browse workshops based on your interests and career goals." },
+      { "number": "02", "title": "Reserve your seat", "text": "Register and receive your workshop access details." },
+      { "number": "03", "title": "Learn by doing", "text": "Join the session, interact with mentors and practice what you learn." }
+    ]
+  },
+  "mentors": {
+    "eyebrow": "People who do the work",
+    "title": "Learn from experienced mentors",
+    "description": "Meet the practitioners who make every workshop concrete, generous and connected to the real world.",
+    "link": "Meet our mentors",
+    "note": "Illustrative mentor profiles and generated portraits. The teaching team will be announced before registration opens.",
+    "meet": "Meet {name}",
+    "imageAlt": "Generated placeholder portrait for sample mentor {name}"
+  },
+  "calendar": {
+    "eyebrow": "Keep your calendar open",
+    "title": "What's coming next",
+    "description": "A clear view of the next live online workshops, with enough detail to choose your next useful session.",
+    "viewAll": "View full workshop calendar",
+    "viewWorkshop": "View workshop"
+  },
+  "learningOutcomes": {
+    "eyebrow": "From the learning desk",
+    "title": "Learn. Build. Apply.",
+    "description": "A working first version beats another page of notes. Build something you can share, get feedback on and make your own.",
+    "outcomes": ["Web applications", "UI prototypes", "AI projects", "Marketing strategies", "Portfolio projects"],
+    "link": "Find a workshop to build with",
+    "projectPath": "your-first-project / preview",
+    "projectCategory": "Design & development",
+    "projectHeadline": ["Make room", "for good ideas."],
+    "projectDescription": ["A responsive portfolio. Designed by you.", "Built, tested and ready to share."],
+    "projectAlt": "A collaborative workspace in an example portfolio design",
+    "notebookLabel": "Project notes / 02",
+    "notebookHeadline": ["A useful", "AI workflow."],
+    "notebookSteps": ["01 — Define the task", "02 — Write & test prompts", "03 — Check the output", "04 — Make it repeatable"],
+    "caption": ["Illustrative workshop projects", "Made through practice."]
+  },
+  "testimonials": {
+    "eyebrow": "The learner's perspective",
+    "title": "What learners say",
+    "note": "Sample testimonials for this preview. These are not verified learner reviews."
+  },
+  "certificates": {
+    "eyebrow": "A record of your practice",
+    "title": "Showcase what you’ve learned.",
+    "description": "Complete eligible SkillSpardha workshops and receive certificates recognizing your participation and learning.",
+    "explore": "Explore certificates",
+    "sample": "Sample certificate of participation",
+    "name": "Aarav Sharma",
+    "completion": "has completed the practical workshop",
+    "workshop": "Generative AI for Beginners",
+    "issuer": "SkillSpardha learning team",
+    "date": "12 Oct 2026"
+  },
+  "community": {
+    "eyebrow": "Keep the conversation going",
+    "title": "Learning doesn’t end with the workshop.",
+    "description": "Stay close to the work with resources, discussions and mentor guidance that help a good session become a useful habit.",
+    "benefits": ["Workshop discussions", "Follow-up resources", "Recordings where available", "Mentor guidance"],
+    "link": "Join the learning community",
+    "imageAlt": "Learners collaborating around a shared workshop project",
+    "caption": "Learn together, keep going."
+  },
+  "resources": {
+    "eyebrow": "Keep learning between sessions",
+    "title": "Insights & learning resources",
+    "description": "Short, useful reads for choosing your next skill and making more of the time you spend practicing.",
+    "viewAll": "View all resources",
+    "note": "Editorial previews · Sample articles prepared for launch."
+  },
+  "faq": {
+    "eyebrow": "Good questions welcome",
+    "title": "Frequently asked questions",
+    "description": "A few useful details before you choose your next workshop.",
+    "questions": [
+      ["What is SkillSpardha?", "SkillSpardha is a practical learning platform for live online workshops led by experienced mentors. Each session is built around doing, sharing and applying a useful skill."],
+      ["How do SkillSpardha workshops work?", "Choose a workshop, reserve your seat and join at the scheduled time. You will receive access details and any preparation notes before the session."],
+      ["Are workshops live?", "Yes. Workshops are designed as live, interactive sessions so you can ask questions, practice in real time and learn with other participants."],
+      ["Can beginners join?", "Yes. Every workshop lists the suggested level and any preparation needed. Many sessions are designed specifically for curious beginners."],
+      ["Will I receive a certificate?", "Eligible workshops include a SkillSpardha participation certificate. The workshop page will say when a certificate is included."],
+      ["What if I miss a workshop?", "If a recording is available for that session, it will be shared with registered participants. Availability varies by workshop."],
+      ["Are recordings provided?", "Some workshops include recordings or follow-up material. Check the workshop details before reserving your seat."],
+      ["How do I join a workshop?", "After registration, you will receive the live session link and joining instructions by email."]
+    ]
+  },
+  "finalCta": {
+    "eyebrow": "Your next useful step",
+    "title": "Ready to learn something new?",
+    "description": "Explore upcoming SkillSpardha workshops and start building practical skills with experienced mentors.",
+    "explore": "Explore workshops",
+    "calendar": "View workshop calendar"
+  },
+  "newsletter": {
+    "eyebrow": "Stay in the loop",
+    "title": "Never miss a workshop.",
+    "description": "New workshops, useful resources and a little more room to learn.",
+    "emailLabel": "Email address",
+    "placeholder": "you@example.com",
+    "subscribe": "Subscribe",
+    "validationError": "Enter a valid email address, such as you@example.com.",
+    "successMessage": "Thanks for your interest. Subscriptions are not live yet, so your email has not been saved.",
+    "note": "Preview form · Email subscriptions will open at launch."
+  },
+  "accessibility": {
+    "skipToContent": "Skip to content"
+  }
+}
