@@ -18,10 +18,10 @@
     { "name": "Technology", "slug": "technology", "detail": "Keep learning what matters" }
   ],
   "mentors": [
-    { "name": "Mira Joshi", "role": "Product Designer", "specialization": "UI systems & research", "slug": "mira-joshi", "image": "/images/mentor-sample-1.webp" },
-    { "name": "Rohan Shah", "role": "Full-stack Developer", "specialization": "Web apps & APIs", "slug": "rohan-shah", "image": "/images/mentor-sample-2.webp" },
-    { "name": "Ananya Rao", "role": "Growth Strategist", "specialization": "Digital marketing", "slug": "ananya-rao", "image": "/images/mentor-sample-3.webp" },
-    { "name": "Devika Iyer", "role": "Career Coach", "specialization": "Career readiness", "slug": "devika-iyer", "image": "/images/mentor-sample-4.webp" }
+    { "name": "Ifham Husain Zaidi", "role": "Product Designer", "specialization": "UI systems & research", "slug": "ifham-husain-zaidi", "image": "/images/mentor-sample-1.webp" },
+    { "name": "Ahtisham Husain Zaidi", "role": "Full-stack Developer", "specialization": "Web apps & APIs", "slug": "ahtisham-husain-zaidi", "image": "/images/mentor-sample-2.webp" },
+    { "name": "Pawan Pal", "role": "Growth Strategist", "specialization": "Digital marketing", "slug": "pawan-pal", "image": "/images/mentor-sample-3.webp" },
+    { "name": "Ankit Kushwah", "role": "Career Coach", "specialization": "Career readiness", "slug": "ankit-kushwah", "image": "/images/mentor-sample-4.webp" }
   ],
   "resources": [
     {

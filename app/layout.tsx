@@ -14,13 +14,13 @@ export const metadata: Metadata = {
     url: content.site.url,
     siteName: content.site.name,
     type: "website",
-    images: [{ url: "/og.png", width: 1200, height: 630, alt: content.site.socialImageAlt }],
+    images: [{ url: "/og.webp", width: 1200, height: 630, alt: content.site.socialImageAlt }],
   },
   twitter: {
     card: "summary_large_image",
     title: content.site.title,
     description: content.site.socialDescription,
-    images: ["/og.png"],
+    images: ["/og.webp"],
   },
   icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
 };

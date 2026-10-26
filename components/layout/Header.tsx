@@ -1,6 +1,7 @@
 "use client";
 
 import { Menu, ArrowUpRight } from "lucide-react";
+import Image from "next/image";
 import { useState } from "react";
 import { buttonClassName } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetDescription, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
@@ -17,7 +18,7 @@ export function Header() {
   return (
     <header className="site-header">
       <div className="container-width flex h-[76px] items-center justify-between gap-5">
-        <a href="/" className="brand-mark" aria-label={copy.homeAriaLabel}><span className="brand-symbol" aria-hidden="true"><span /><span /><span /></span><span>{content.site.brandStart}<span>{content.site.brandEnd}</span></span></a>
+        <a href="/" className="brand-mark" aria-label={copy.homeAriaLabel}><Image src="/images/skillspardha-logo.webp" alt="" width={1800} height={621} priority className="h-[64px] w-auto mix-blend-multiply" /></a>
         <nav className="hidden items-center gap-5 lg:flex" aria-label={copy.primaryNavLabel}>{copy.navigation.map((item) => <a key={item.label} href={item.href} className="nav-link">{item.label}</a>)}</nav>
         <div className="hidden items-center gap-6 sm:flex"><LoginButton /><a href="/workshops" className={buttonClassName("primary", "min-h-10 px-4 py-2.5 text-xs")}>{copy.exploreWorkshops} <ArrowUpRight size={16} aria-hidden="true" /></a></div>
         <Sheet open={menuOpen} onOpenChange={setMenuOpen}>

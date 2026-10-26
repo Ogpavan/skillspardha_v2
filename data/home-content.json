@@ -40,11 +40,11 @@
     "closing": "Learn through practical workshops."
   },
   "hero": {
-    "eyebrow": "Practical learning",
-    "eyebrowTail": "real skills",
-    "sloganStart": ["Learn it.", "Build it."],
-    "sloganEndings": ["Use it", "Share it", "Grow with it"],
-    "description": "Live workshops where you make, test and build—not just take notes. Learn alongside mentors who do the work.",
+    "eyebrow": "Learn",
+    "eyebrowTail": "Build / Grow",
+    "sloganStart": ["Practical Skills.", "Real-World"],
+    "sloganEndings": ["Impact"],
+    "description": "Hands-on workshops, expert mentorship and industry-aligned learning to help you build the skills for tomorrow.",
     "explore": "Explore workshops",
     "schedule": "See the schedule",
     "proof": ["Live sessions", "Guided practice", "Mentor feedback"],
@@ -81,7 +81,7 @@
     "description": "Explore workshops by category. Start with a topic you care about, then put it into practice."
   },
   "about": {
-    "imageAlt": "Learners discussing a project during an interactive workshop",
+    "imageAlt": "Learners collaborating on laptops during a cybersecurity hackathon workshop",
     "imageCaption": "Learning in public, building together.",
     "eyebrow": "About SkillSpardha",
     "title": "Learning that goes beyond theory.",
@@ -128,15 +128,16 @@
     "title": "Learn from experienced mentors",
     "description": "Meet the practitioners who make every workshop concrete, generous and connected to the real world.",
     "link": "Meet our mentors",
-    "note": "Illustrative mentor profiles and generated portraits. The teaching team will be announced before registration opens.",
+    "note": "Sample mentor profiles. The teaching team will be announced before registration opens.",
     "meet": "Meet {name}",
     "imageAlt": "Generated placeholder portrait for sample mentor {name}"
   },
   "calendar": {
     "eyebrow": "Keep your calendar open",
     "title": "What's coming next",
-    "description": "A clear view of the next live online workshops, with enough detail to choose your next useful session.",
+    "description": "See live online workshops scheduled within the next seven days, with enough detail to choose your next useful session.",
     "viewAll": "View full workshop calendar",
+    "emptyMessage": "No workshops are scheduled within the next 7 days.",
     "viewWorkshop": "View workshop"
   },
   "learningOutcomes": {
@@ -165,7 +166,8 @@
     "title": "Showcase what you’ve learned.",
     "description": "Complete eligible SkillSpardha workshops and receive certificates recognizing your participation and learning.",
     "explore": "Explore certificates",
-    "sample": "Sample certificate of participation",
+    "sample": "Sample certificate of completion",
+    "imageAlt": "Sample SkillSpardha certificate of completion for the 7-Day Technology Accelerator",
     "name": "Aarav Sharma",
     "completion": "has completed the practical workshop",
     "workshop": "Generative AI for Beginners",

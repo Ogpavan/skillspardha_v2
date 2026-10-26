@@ -21,7 +21,7 @@ test("server-renders the SkillSpardha homepage", async () => {
 
   const html = await response.text();
   assert.match(html, /<title>SkillSpardha \| Live Online Workshops &amp; Practical Learning<\/title>/i);
-  assert.match(html, /<h1[^>]*>Learn skills that/);
+  assert.match(html, /<h1[^>]*>Practical Skills\./);
   assert.match(html, /Upcoming workshops/i);
   assert.match(html, /Learn from experienced mentors/i);
   assert.match(html, /Frequently asked questions/i);
@@ -38,7 +38,7 @@ test("homepage keeps the requested semantic structure and preview assets", async
   assert.match(html, /<main\b/);
   assert.match(html, /<footer\b/);
   assert.match(html, /skillspardha-hero\.webp/);
-  assert.match(html, /https:\/\/skillspardha\.com\/og\.png/);
-  await access(new URL("../public/og.png", import.meta.url));
+  assert.match(html, /https:\/\/skillspardha\.com\/og\.webp/);
+  await access(new URL("../public/og.webp", import.meta.url));
   await assert.rejects(access(new URL("../app/_sites-preview/SkeletonPreview.tsx", import.meta.url)));
 });
