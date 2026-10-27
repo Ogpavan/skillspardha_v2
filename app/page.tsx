@@ -7,7 +7,6 @@ import { WorkshopCategories } from "@/components/home/WorkshopCategories";
 import { AboutSection } from "@/components/home/AboutSection";
 import { BenefitsSection } from "@/components/home/BenefitsSection";
 import { HowItWorks } from "@/components/home/HowItWorks";
-import { MentorsSection } from "@/components/home/MentorsSection";
 import { WorkshopCalendar } from "@/components/home/WorkshopCalendar";
 import { LearningOutcomes } from "@/components/home/LearningOutcomes";
 import { Testimonials } from "@/components/home/Testimonials";
@@ -47,7 +46,6 @@ export default function Home() {
         <AboutSection />
         <BenefitsSection />
         <HowItWorks />
-        <MentorsSection />
         <WorkshopCalendar />
         <LearningOutcomes />
         <Testimonials />

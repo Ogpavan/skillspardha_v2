@@ -16,6 +16,7 @@
       { "label": "Home", "href": "/" },
       { "label": "Workshops", "href": "/workshops" },
       { "label": "Courses", "href": "/courses" },
+      { "label": "Reviews", "href": "/reviews" },
       { "label": "About", "href": "/about" },
       { "label": "Contact", "href": "/contact" }
     ],
@@ -42,13 +43,13 @@
   "hero": {
     "eyebrow": "Learn",
     "eyebrowTail": "Build / Grow",
-    "sloganStart": ["Practical Skills.", "Real-World"],
-    "sloganEndings": ["Impact"],
-    "description": "Hands-on workshops, expert mentorship and industry-aligned learning to help you build the skills for tomorrow.",
+    "sloganStart": ["From Learning", "to"],
+    "sloganEndings": ["Real Opportunities"],
+    "description": "SkillSpardha brings together practical learning, industry guidance and career-focused workshops to help you turn your skills into real opportunities.",
     "explore": "Explore workshops",
     "schedule": "See the schedule",
     "proof": ["Live sessions", "Guided practice", "Mentor feedback"],
-    "imageAlt": "A mentor and young adult learners collaborating on a practical laptop project",
+    "imageAlt": "A learner coding at a laptop, a group working with a mentor and a student practicing a skill",
     "captionTitle": ["Less watching.", "More making."],
     "captionDescription": "Learning happens in the doing."
   },

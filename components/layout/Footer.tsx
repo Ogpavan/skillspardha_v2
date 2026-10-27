@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { ArrowUpRight } from "lucide-react";
 import content from "@/data/home-content.json";
 
@@ -9,7 +10,7 @@ export function Footer() {
       <div className="container-width py-16 sm:py-20">
         <div className="grid gap-14 lg:grid-cols-[1.3fr_2fr] lg:gap-20">
           <div>
-            <Link href="/" className="brand-mark brand-mark-footer"><span className="brand-symbol" aria-hidden="true"><span /><span /><span /></span><span>{content.site.brandStart}<span>{content.site.brandEnd}</span></span></Link>
+            <Link href="/" className="inline-flex overflow-hidden rounded-md bg-white" aria-label={content.header.homeAriaLabel}><Image src="/images/skillspardha-logo.webp" alt="" width={1800} height={621} className="h-[64px] w-auto" /></Link>
             <p className="mt-6 max-w-xs text-[15px] leading-7 text-[#c1bccb]">{copy.tagline}</p>
           </div>
           <div className="grid gap-10 sm:grid-cols-3">
