@@ -3,6 +3,7 @@ import "@fontsource-variable/manrope";
 import "./globals.css";
 import content from "@/data/home-content.json";
 import { SocialLinks } from "@/components/layout/SocialLinks";
+import { LeadCapture } from "@/components/layout/LeadCapture";
 
 export const metadata: Metadata = {
   metadataBase: new URL(content.site.url),
@@ -32,7 +33,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
-      <body><a href="#main-content" className="skip-link">{content.accessibility.skipToContent}</a><SocialLinks />{children}</body>
+      <body><a href="#main-content" className="skip-link">{content.accessibility.skipToContent}</a><SocialLinks />{children}<LeadCapture /></body>
     </html>
   );
 }

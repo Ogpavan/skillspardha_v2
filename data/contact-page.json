@@ -18,8 +18,8 @@
       {
         "kind": "email",
         "label": "Email us",
-        "value": "info@skillspardha.com",
-        "href": "mailto:info@skillspardha.com",
+        "value": "admin@skillspardha.com",
+        "href": "mailto:admin@skillspardha.com",
         "action": "Email our team"
       },
       {
